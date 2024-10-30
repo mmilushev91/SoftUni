@@ -1,14 +1,6 @@
-# Pseudocode
-
-# prompt for usd(float)
-# init const variable usd to bgn price
-# calculate bgn price
-# print result
-
+USD_TO_BGN_PRICE = 1.79549 
 
 usd = float(input())
-
-USD_TO_BGN_PRICE = 1.79549 
 
 bgn = usd * USD_TO_BGN_PRICE
 
