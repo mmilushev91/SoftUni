@@ -11,7 +11,7 @@ while command != "END":
             coffees_count += 1
         else:
             coffees_count += 2
-    if coffees_count >= 5:
+    if coffees_count > 5:
         print("You need extra sleep")
         break
 
